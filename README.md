@@ -1,4 +1,4 @@
-# Sturdy-Umberlla by Pzod
+# Sturdy-Umberlla
 
 **Reliable, Resilient, Ruthless SQL Injection Scanner**
 
